@@ -1,1 +1,1 @@
-"# quiz_game" 
+In this code, the quiz_game function implements the logic for a simple quiz game. The questions and answers are stored in a list of dictionaries, where each dictionary contains a question, a list of options, and the correct answer. The function iterates over the questions, prints the question and options, accepts the player's answer, and checks if it's correct. If the answer is correct, the score is incremented by 1, otherwise, it stays the same. At the end of the game, the final score is displayed
